@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Wire the decoder between INPUT and OUTPUT as in the diagram, and remove the old direct wires.
 
 ## How to test
+Setup
 
-Explain how to use your project
+Set all 8 DIP switches to OFF.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Press the green play button to start the simulation.
